@@ -11,5 +11,5 @@ You can search any problem by just typing the problem code(filename) in your bro
 </br>
 each problem on CodeChef has a **unique** code.
 
-![image](https://user-images.githubusercontent.com/47916719/124459705-47ad0200-dd43-11eb-8986-aa27d4779ca1.png)
+[![image alt text](https://user-images.githubusercontent.com/47916719/124459705-47ad0200-dd43-11eb-8986-aa27d4779ca1.png)](https://www.codechef.com/LEARNDSA?order=desc&sortBy=successful_submissions)
 
