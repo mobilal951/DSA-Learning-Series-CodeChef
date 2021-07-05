@@ -1,3 +1,6 @@
+/*
+Submitted Solution link ; https://www.codechef.com/viewsolution/47859596
+*/
 #include <iostream>
 using namespace std;
 
